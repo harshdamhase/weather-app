@@ -3,7 +3,13 @@
 }
 
 body{
-  background-color: #ade7f7;
+
+  background-image: url("https://img.freepik.com/premium-photo/soft-cloudy-is-gradient-pastel-abstract-sky-background-sweet-color_6529-1472.jpg?w=740");
+  
+  background-size: cover;
+background-attachment: fixed;
+  padding: 0;
+  margin: 0;
 }
 .input-box{
   border: 2px solid black;
@@ -12,7 +18,10 @@ body{
   padding: 10px;
   width: 300px;
 }
-
-  
-
-
+.text-center{
+  margin-top: 50px;
+}
+.text{
+  font-size: 20px;
+  font-style:inherit;
+}
